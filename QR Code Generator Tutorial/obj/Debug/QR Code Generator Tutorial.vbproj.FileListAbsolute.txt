@@ -1,0 +1,35 @@
+c:\users\bassel\documents\visual studio 2015\Projects\QR Code Generator Tutorial\QR Code Generator Tutorial\bin\Debug\QR Code Generator Tutorial.exe.config
+c:\users\bassel\documents\visual studio 2015\Projects\QR Code Generator Tutorial\QR Code Generator Tutorial\bin\Debug\QR Code Generator Tutorial.exe
+c:\users\bassel\documents\visual studio 2015\Projects\QR Code Generator Tutorial\QR Code Generator Tutorial\bin\Debug\QR Code Generator Tutorial.pdb
+c:\users\bassel\documents\visual studio 2015\Projects\QR Code Generator Tutorial\QR Code Generator Tutorial\bin\Debug\QR Code Generator Tutorial.xml
+c:\users\bassel\documents\visual studio 2015\Projects\QR Code Generator Tutorial\QR Code Generator Tutorial\bin\Debug\MessagingToolkit.QRCode.dll
+c:\users\bassel\documents\visual studio 2015\Projects\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR Code Generator Tutorial.vbprojResolveAssemblyReference.cache
+c:\users\bassel\documents\visual studio 2015\Projects\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR_Code_Generator_Tutorial.Form1.resources
+c:\users\bassel\documents\visual studio 2015\Projects\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR_Code_Generator_Tutorial.Resources.resources
+c:\users\bassel\documents\visual studio 2015\Projects\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR Code Generator Tutorial.vbproj.GenerateResource.Cache
+c:\users\bassel\documents\visual studio 2015\Projects\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR Code Generator Tutorial.exe
+c:\users\bassel\documents\visual studio 2015\Projects\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR Code Generator Tutorial.xml
+c:\users\bassel\documents\visual studio 2015\Projects\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR Code Generator Tutorial.pdb
+C:\Users\anonymous\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\bin\Debug\QR Code Generator Tutorial.exe.config
+C:\Users\anonymous\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR Code Generator Tutorial.exe
+C:\Users\anonymous\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR Code Generator Tutorial.xml
+C:\Users\anonymous\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR Code Generator Tutorial.pdb
+C:\Users\anonymous\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\bin\Debug\QR Code Generator Tutorial.exe
+C:\Users\anonymous\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\bin\Debug\QR Code Generator Tutorial.pdb
+C:\Users\anonymous\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\bin\Debug\QR Code Generator Tutorial.xml
+C:\Users\anonymous\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR_Code_Generator_Tutorial.Form1.resources
+C:\Users\anonymous\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR_Code_Generator_Tutorial.Resources.resources
+C:\Users\anonymous\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR Code Generator Tutorial.vbproj.GenerateResource.Cache
+C:\Users\MONSTERMC\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\bin\Debug\QR Code Generator Tutorial.exe.config
+C:\Users\MONSTERMC\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\bin\Debug\QR Code Generator Tutorial.exe
+C:\Users\MONSTERMC\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\bin\Debug\QR Code Generator Tutorial.pdb
+C:\Users\MONSTERMC\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\bin\Debug\QR Code Generator Tutorial.xml
+C:\Users\MONSTERMC\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR Code Generator Tutorial.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR_Code_Generator_Tutorial.Form1.resources
+C:\Users\MONSTERMC\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR_Code_Generator_Tutorial.Resources.resources
+C:\Users\MONSTERMC\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR Code Generator Tutorial.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR Code Generator Tutorial.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR Code Generator Tutorial.vbproj.CopyComplete
+C:\Users\MONSTERMC\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR Code Generator Tutorial.exe
+C:\Users\MONSTERMC\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR Code Generator Tutorial.xml
+C:\Users\MONSTERMC\Desktop\QR Code Generator Tutorial\QR Code Generator Tutorial\obj\Debug\QR Code Generator Tutorial.pdb
